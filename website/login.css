@@ -1,0 +1,17 @@
+.form-group {
+    border-radius: 10px;
+    border: 2px solid rgb(247, 255, 255);
+    padding: 2px;
+}
+.lab {
+    font-weight: bold;
+}
+ .lbb{
+    box-shadow: 2px 5px 25px  dimgray;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 30px;
+    border: 2px solid whitesmoke;
+    padding: 40px;
+    margin: 5px 5px 5px;
+}
